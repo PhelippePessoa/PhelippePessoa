@@ -18,10 +18,5 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div>
-<p align="center"> 
 
- ## Total de Visitas 👀 <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/pPhelippePessoa/count.svg" />
- </p>
+ [![](https://visitcount.itsvg.in/api?id=PhelippePessoa&icon=2&color=6)](https://visitcount.itsvg.in)
