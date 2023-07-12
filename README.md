@@ -1,7 +1,7 @@
-### Olá, Eu sou o Phelippe Pessoa
+### Olá, Eu sou o Phelippe
 
 - 🧠 Graduando em Ciencias da Computação pela UERR
-- 🦾 Estudando Python
+- 🦾 Estudando Java 
 
 <div align="center">
   <a href="https://github.com/PhelippePessoa">
