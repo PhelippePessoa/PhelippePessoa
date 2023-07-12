@@ -10,10 +10,6 @@
 </div>
   
 <div>
-
-
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 
  [![](https://visitcount.itsvg.in/api?id=PhelippePessoa&icon=2&color=6)](https://visitcount.itsvg.in)
